@@ -1,10 +1,11 @@
 *  [How to generate video screencaps of video files via linux commandline - Stack Overflow](http://stackoverflow.com/questions/1150812/how-to-generate-video-screencaps-of-video-files-via-linux-commandline)
  * [Creating video thumbnails using ffmpeg – Prashanth Ellina](http://blog.prashanthellina.com/2008/03/29/creating-video-thumbnails-using-ffmpeg/)
  * [SlickSlice](http://slickslice.sourceforge.net/)
- *  [SlickSlice | Free Graphics software downloads at SourceForge.net](http://sourceforge.net/projects/slickslice/)
- 
-<pre>
- 
+ * <pre>
+./slickslice.sh -x video.avi -s 5x3 -e
+
+mplayer -nosound -sstep 15 -vo png video.mkv
+montage *.png -tile 3x3 -geometry 300x+0+0 screencaps.png
 </pre>
 
 * [Cinder | The library for professional-quality creative coding in C++](http://libcinder.org/)
