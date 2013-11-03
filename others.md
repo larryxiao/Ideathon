@@ -1,3 +1,18 @@
+*   smart electronics
+    *   aim: make it available for every household
+    *   controls:
+        *   basic controls
+        *   advanced controls
+    *   ideas
+        *   mechanical
+        *   electrical
+            *   NFC, WiFi, IRed, ...
+            *   ! use electric socket itself, plus adapter
+        * * make appliance info avaible online
+    *   applications specific
+        *   open doors
+        *   adjust AC, hot water ...
+
 *   personal library (meta data based, focus on reading notes & sharing)
     *   organize by book meta data (like ibook, vbook)
     *   reading progress & notes
