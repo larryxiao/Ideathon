@@ -10,6 +10,7 @@
     *   ideas
         *   mechanical
         *   electrical
+            *   [HowStuffWorks "How Power-line Networking Works"](http://computer.howstuffworks.com/power-network.htm)电力猫
             *   NFC, WiFi, IRed, ...
             *   ! use electric socket itself, plus adapter
                 *   notion: already connected
