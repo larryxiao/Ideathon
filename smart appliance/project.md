@@ -10,9 +10,10 @@
     *   ideas
         *   mechanical
         *   electrical
-            *   [HowStuffWorks "How Power-line Networking Works"](http://computer.howstuffworks.com/power-network.htm)电力猫
             *   NFC, WiFi, IRed, ...
             *   ! use electric socket itself, plus adapter
+                *   电力猫 / Power-line Networking
+                  *  [HowStuffWorks "How Power-line Networking Works"](http://computer.howstuffworks.com/power-network.htm)
                 *   notion: already connected
                     *   [PROCESS AND SYSTEM FOR TRANSMITTING INFORMATION AND INSTRUCTIONS ON AN ALTERNATING CURRENT DISTRIBUTION NETWORK - Rouet, Paul](http://www.freepatentsonline.com/EP0038877.html)
                     *   [Alternate Current information - Google Scholar](http://scholar.google.com/scholar?q=Alternate+Current+information&btnG=&hl=en&as_sdt=0%2C5)
