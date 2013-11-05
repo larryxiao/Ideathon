@@ -1,3 +1,7 @@
+*   compose 'face book'
+    *   use webcam to gather and compose matrix of faces
+    *   [Capturing Audio & Video in HTML5 - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/getusermedia/intro/)
+    
 *   smart electronics / appliances
     *   keywords:   home automation
     *   aim: make it available for every household
