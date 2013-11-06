@@ -1,6 +1,6 @@
 # Think Different ~ Change the World
-Think Different
-Change the World
+* Think Different
+* Change the World
 
 ## (Former CP)
 
