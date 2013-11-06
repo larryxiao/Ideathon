@@ -1,5 +1,8 @@
-CP
-==
+# Think Different ~ Change the World
+Think Different
+Change the World
+
+## (Former CP)
 
 creative programming --- the best place for ideas
 ---
