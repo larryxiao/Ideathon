@@ -3,6 +3,9 @@
    *  Mac OS X
    *  Windows
       *  WIN + NUM: access nth window
+   *  iOS
+   *  Android
+   *  WP
 *  another task / calendar related snippet
     *   origin: auto parse event info
     *   auto parse date from text
