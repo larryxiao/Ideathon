@@ -1,3 +1,8 @@
+*  good features of different OS
+   *  Ubuntu
+   *  Mac OS X
+   *  Windows
+      *  WIN + NUM: access nth window
 *  another task / calendar related snippet
     *   origin: auto parse event info
     *   auto parse date from text
@@ -6,7 +11,6 @@
             *   regex
                *   [0-9]*月[0-9]*日
                *   ...
-               *   
 *   magnetic speed bump
     *   no more bumping
     *   transform speed into energy
