@@ -1,3 +1,12 @@
+*  another task / calendar related snippet
+    *   origin: auto parse event info
+    *   auto parse date from text
+        *   english should be easy
+        *   chinese
+            *   regex
+               *   [0-9]*æœˆ[0-9]*æ—¥
+               *   ...
+               *   
 *   magnetic speed bump
     *   no more bumping
     *   transform speed into energy
@@ -21,7 +30,7 @@
         *   electrical
             *   NFC, WiFi, IRed, ...
             *   ! use electric socket itself, plus adapter
-                *   µçÁ¦Ã¨ / Power-line Networking
+                *   ï¿½ï¿½ï¿½ï¿½Ã¨ / Power-line Networking
                   *  [HowStuffWorks "How Power-line Networking Works"](http://computer.howstuffworks.com/power-network.htm)
                 *   notion: already connected
                     *   [PROCESS AND SYSTEM FOR TRANSMITTING INFORMATION AND INSTRUCTIONS ON AN ALTERNATING CURRENT DISTRIBUTION NETWORK - Rouet, Paul](http://www.freepatentsonline.com/EP0038877.html)
