@@ -2,6 +2,9 @@
 * Think Different
 * Change the World
 
+## it's not only programming
+    it's anything, everything
+
 ## (Former CP)
 
 creative programming --- the best place for ideas
