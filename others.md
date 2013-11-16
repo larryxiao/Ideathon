@@ -1,3 +1,6 @@
+* music
+ * search by music (upload)
+ * a guitar strum, .. style
 * editor
   * sublimetext
     * package
