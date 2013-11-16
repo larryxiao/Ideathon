@@ -1,3 +1,8 @@
+* editor
+  * sublimetext
+    * package
+      * auto shorten URL link, using tinyurl.com etc.
+      * markdown file / ... reference
 *  good features of different OS
    *  Ubuntu
    *  Mac OS X
