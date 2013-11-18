@@ -6,6 +6,7 @@
     * package
       * auto shorten URL link, using tinyurl.com etc.
       * markdown file / ... reference
+      * auto download image url, alter the link to use downloaded image
 *  good features of different OS
    *  Ubuntu
    *  Mac OS X
