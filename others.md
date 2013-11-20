@@ -1,3 +1,7 @@
+* text processing
+ * automatic identify pattern in text
+  * html / log file ...
+  * interactive select useful info
 * music
  * search by music (upload)
  * a guitar strum, .. style
