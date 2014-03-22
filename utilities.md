@@ -12,3 +12,6 @@
     *   abstract internet storage service into directory
     *   mount on demand (diff dropbox) download on demand, upload automatically
 
+
+*  chat client
+   *  should be able to star message
