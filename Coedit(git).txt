@@ -1,0 +1,8 @@
+Interesting tip: if you create new file through github web interface. When you type "/" it'll automatically make a sub folder. 
+
+
+Coedgit
+Coeditw with git
+
+Scenario: I can post and people can edit. 
+Plus: a web hosting that managed markdowns. 
