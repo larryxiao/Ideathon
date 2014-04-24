@@ -1,0 +1,12 @@
+[4.78. kernel](https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/5/html/5.8_Technical_Notes/kernel.html)
+Bug Fixes
+BZ#847404
+The mlx4 driver did not contain the necessary callbacks to implement Enhanced I/O Error Handling and recovery, so the PCI layer used the probe and remove callbacks to try to recover the device after an error occurred on the bus. However, a race condition occurred between these callbacks and the internal catastrophic error recovery functions which also detected the error, and consequently caused a kernel oops if both EEH and the internal recovery functions attempted to reset the device. This update adds the necessary error recovery callbacks and ensures that the internal catastrophic error functions do not try to reset the device in such scenarios. Also, additional calls have been added to suppress read and write operations on the bus when the slot cannot accept I/O operations, which prevents unnecessary accesses to the bus and speeds up the device removal.
+
+[[ofw][patch][MLX4] application crash in case of IOCTL failure](http://lists.openfabrics.org/pipermail/ofw/2008-November/003954.html)
+[MLX4] fixed application crash in case of IOCTL failure.
+[mlnx:3498]
+	The crash is caused by double cleaning of vendor objects: once
+upon handling IOCTL error in post function, second time - when IBAL
+calls destroy function for cleanup.
+
