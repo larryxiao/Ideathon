@@ -1,0 +1,11 @@
+notify when shell job done
+local
+  [Get Terminal To Tell You When It’s Done [OS X Tips] | Cult of Mac](http://www.cultofmac.com/170006/get-terminal-to-tell-you-when-its-done-os-x-tips/)
+  say "Job Done!"
+  
+  AppleScript
+  [terminal - How can I trigger a Notification Center notification from an AppleScript or shell script? - Ask Different](http://apple.stackexchange.com/questions/57412/how-can-i-trigger-a-notification-center-notification-from-an-applescript-or-shel)
+  osascript -e 'display notification "Lorem ipsum dolor sit amet" with title "Title"'
+
+ssh
+  
