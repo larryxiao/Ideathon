@@ -1,0 +1,5 @@
+a sublimetext plugin to insert current geolocation
+  by
+    IP address
+    GPS (howto?)
+    other reference
