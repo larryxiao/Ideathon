@@ -1,0 +1,2 @@
+[filesystem - How to fix "sudo: unable to open ... Read-only file system"? - Ask Ubuntu](http://askubuntu.com/questions/197459/how-to-fix-sudo-unable-to-open-read-only-file-system)
+  The filesystem will usually go into read-only while the system is running if there is a filesystem consistency issue. This is specified in fstab as errors=remount-ro and will occur when a FS access fails or an emergency read-only remount is requested via Alt+SysRq+U. You can run:
