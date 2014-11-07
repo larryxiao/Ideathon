@@ -16,3 +16,9 @@ more suited for internet
 
 take a photo together remotely
 - adjust exporsure dynamically to get coherent brightness
+
+create a new markup language for recording relationships (graph)
+and a webapp to interpret & present it (just like markdown on github)
+
+use git to create collaborative editing, and version control
+(visualize the result)
