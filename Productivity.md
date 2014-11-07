@@ -1,10 +1,10 @@
 Programming Related
 ====
--   github
+###   github
 *   tag/categorize starred repository, allow search
     *   when I star a repository, apart from giving a thumb, I also want to keep record of the project for future use.
 
--   Shell Tools
+###   Shell Tools
 *   notify when shell job done
 <pre>
 >   local
@@ -23,7 +23,7 @@ Programming Related
 >       [IRC notifications via SSH and libnotify](http://mlomnicki.com/ruby/linux/2011/02/09/irc-notifications.html)
 </pre>
 
--   Editor
+###   Editor
 *   a sublimetext plugin to insert current geolocation
 <pre>
 >   IP address
@@ -33,5 +33,5 @@ Programming Related
 
 Web Clipping
 ====
--   Web clipper to my blog
-*   (instead of Evernote, Pocket ..)
+*   Web clipper to my blog
+   *   (instead of Evernote, Pocket ..)
