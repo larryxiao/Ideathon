@@ -21,6 +21,7 @@ it's a place to hatch ideas, and turn ideas into new projects
 Categories
 ====
 *	[Fun](Fun.md)
+*	[Emerging Technologies](Emerging.md)
 *	[Business](Business.md)
 *	[Productivity](Productivity.md)
 *	[IdeaHunt](IdeaHunt.md)
