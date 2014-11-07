@@ -6,6 +6,7 @@ Programming Related
 
 -   Shell Tools
 *   notify when shell job done
+<pre>
 >   local
 >       [Get Terminal To Tell You When It’s Done [OS X Tips] | Cult of Mac](http://www.cultofmac.com/170006/get-terminal-to-tell-you-when-its-done-os-x-tips/)
 >       say "Job Done!"
@@ -20,12 +21,15 @@ Programming Related
 >       ssh
 >       pushover
 >       [IRC notifications via SSH and libnotify](http://mlomnicki.com/ruby/linux/2011/02/09/irc-notifications.html)
+</pre>
 
 -   Editor
 *   a sublimetext plugin to insert current geolocation
+<pre>
 >   IP address
 >   GPS (howto?)
 >   other reference
+</pre>
 
 Web Clipping
 ====

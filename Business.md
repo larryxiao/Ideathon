@@ -1,6 +1,7 @@
 Communication
 ====
--	email reader's info
+-	email receipients' info
+<pre>
 >	design
 >	- embed a small http request in mail, and log email title or some identifier
 >	- use a web server to receive this info, and display it
@@ -14,10 +15,12 @@ Communication
 >	obstacle
 >	- email client might not offer way to send this request
 >	- (maybe embed in picture, get request)
+</pre>
 
 Marketing
 ====
 -	A feedback platform for retail store
+<pre>
 >	Easily print a QR code and put on shop
 >	Or embed in current system
 >	Allow easy feedback from customer
@@ -25,3 +28,4 @@ Marketing
 >	
 >	Give chance for interaction
 >	(Not simply customer comment)
+</pre>
